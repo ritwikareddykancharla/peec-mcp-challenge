@@ -77,14 +77,48 @@ Replaces ~4 hours of analyst work per month. Output is identical month-over-mont
 
 ## Suggested public posts (for #BuiltWithPeec)
 
-**Tweet/LinkedIn template (one post per workflow):**
+A 3-tweet thread (or 3 standalone LinkedIn posts), one per workflow.
+
+### Tweet 1 — Content Optimization
 
 > Built 3 workflows for the @peec_ai MCP Challenge — one per category. 🧵
 >
-> 1/ Citation Gap Brief Generator (Content Optimization)
-> Finds the AI-cited URLs where competitors get cited but Linear doesn't, scrapes them, and outputs a ready-to-write content brief. Replaces hours of manual SERP research per week.
+> 1/ Citation Gap Brief Generator
+> Finds the AI-cited URLs where competitors get cited but my brand doesn't, scrapes them via the Peec MCP, and outputs a ready-to-write content brief. Replaces hours of manual SERP research per week.
 >
 > Repo: github.com/ritwikareddykancharla/peec-mcp-challenge
 > #BuiltWithPeec
 
-(Repeat with workflow 2 and 3 in subsequent posts.)
+### Tweet 2 — Competitive Analysis
+
+> 2/ AI Engine Movement Alerts
+>
+> Most AI-visibility tools give you one number. The story isn't the number — it's the delta and the engine.
+>
+> This Claude Desktop workflow snapshots every brand × engine combo, computes week-over-week deltas, and surfaces critical movements as Slack-ready alerts — with actual chat snippets pulled via the Peec MCP showing *why* something shifted.
+>
+> Per-engine breakdown is the unlock. You can be #2 on Claude and #8 on Gemini, and that's the whole insight.
+>
+> Repo: github.com/ritwikareddykancharla/peec-mcp-challenge
+> #BuiltWithPeec
+
+### Tweet 3 — Reporting Automation
+
+> 3/ Monthly Executive AI-Visibility Brief
+>
+> Building the monthly leadership report manually = pull data, compute MoM deltas, rank prompts, cross-reference citations, write prose. Every. Month.
+>
+> One slash command in Claude Desktop now does it all via the Peec MCP — board-ready output in ~30 seconds. Same structure every month, so reports are directly comparable.
+>
+> Three formats from one prompt: long markdown for Notion, sectioned for revision, prose for email.
+>
+> Repo: github.com/ritwikareddykancharla/peec-mcp-challenge
+> #BuiltWithPeec
+
+### Wrap-up tweet (optional)
+
+> All three workflows in one repo. Built in Claude Desktop with the Peec MCP. Designed to actually run on a real cadence — weekly, daily, monthly — not just demo once.
+>
+> If you're tracking AI search visibility, this is the toolkit. 👇
+> github.com/ritwikareddykancharla/peec-mcp-challenge
+> #BuiltWithPeec @peec_ai
