@@ -1,5 +1,11 @@
 # Peec MCP Challenge — 3 Workflows for Linear
 
+<p align="center">
+  <a href="https://github.com/sponsors/ritwikareddykancharla" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Sponsor-ritwikareddykancharla-EA4AAA?logo=githubsponsors&logoColor=white" alt="Sponsor ritwikareddykancharla on GitHub" />
+  </a>
+</p>
+
 Three repeatable Claude Desktop workflows powered by the Peec AI MCP server, one per challenge category.
 
 | # | Folder | Category | What it produces |
